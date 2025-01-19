@@ -1,0 +1,24 @@
+body {
+	background-color: #dcdcdc;
+	font-family: sans-serif;
+}
+table, tr, td {
+	border: 1px solid black;
+}
+table {
+	border-collapse: collapse;
+}
+td {
+	width: 18px;
+	height: 18px;
+	line-height: 18px;
+	font-size: 28px;
+	text-align: center;
+}
+td span {
+	top: 5px;
+  	position: relative;
+}
+p {
+	font-size: 1.3em;
+}
